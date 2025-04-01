@@ -4,3 +4,5 @@ function pintarFundo(){
     let wrapper = document.getElementById('wrapper');
     wrapper.style.backgroundColor = 'pink';
 }
+pintarFundo();
+
